@@ -2,5 +2,8 @@ slm rencana materi :
 1. HTML
 2. CSS
 3. Javascript
+ * DOM
+ * Express JS
 4. Node JS
 5. MongoDB
+6. React JS
